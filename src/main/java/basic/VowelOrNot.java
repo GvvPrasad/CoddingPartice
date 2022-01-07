@@ -16,6 +16,7 @@ public class VowelOrNot {
 		System.out.print("Enter Charater: ");
 		letter = sc.next();
 		sc.close();
+		
 		String	givenLetter = letter.toLowerCase();
 
 
